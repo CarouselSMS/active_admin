@@ -1,5 +1,6 @@
 require 'active_admin/router'
 require 'active_admin/helpers/settings'
+require 'sass/plugin'
 
 module ActiveAdmin
   class Application
